@@ -1,5 +1,7 @@
 # script pour générer un QRcode Wifi
 
-##Modules
+## Modules
 `pip install pyqrcode`
 `pip install pypng`
+
+**(S-crow)**
